@@ -1,7 +1,7 @@
 ---
 title: "Advanced CSS and Sass 강의 내용 정리 9월 28일자"
 date: 2020-09-28 11:24:28 -0400
-categories: Summary
+categories: CSS
 ---
 
 Jonas Schmedtmann의 Advanced Css and Sass: Flexbox, Grid, Animations and More! 강의를 들으면서, 생각나는 점 및 내용을 정리하는 포스트이다.
